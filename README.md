@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arijit-giorno
+- 👋 <h1>Hi, I’m @arijit-giorno</h1>
 - 👀 I’m interested in everything but little bit 🍑
 - 🌱 I’m currently learning termux 
 - 🎉 I'm a otaku , a indian otaku
