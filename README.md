@@ -1,7 +1,4 @@
 - 👋 <h3>Hi, I’m @arijit-giorno  </h3>
- h3{
-    color:rgb(209, 51, 51);
-}
 - 👀 I’m interested in everything but little bit 🍑 
 - 🎉 I'm a otaku , a indian otaku
 - 📫 How to reach me arijitsaha713130@gmail.com
