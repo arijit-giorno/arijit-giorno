@@ -1,13 +1,9 @@
-- 👋 <h3>Hi, I’m @arijit-giorno</h3>
+- 👋 <h3>Hi, I’m @arijit-giorno color:rgb(11, 95, 14); </h3>
 - 👀 I’m interested in everything but little bit 🍑 
 - 🎉 I'm a otaku , a indian otaku
 - 📫 How to reach me arijitsaha713130@gmail.com
 - 
-#include <stdio.h>
-int main(){
-printf("hallo");
-return 0;
-}
+
 
 <!---
 arijit-giorno/arijit-giorno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
