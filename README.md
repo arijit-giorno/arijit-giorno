@@ -1,6 +1,7 @@
-- 👋 <h3>Hi, I’m @arijit-giorno  </h3>
-- 👀 I’m interested in everything but little bit 🍑 
-- 🎉 I'm a otaku , a indian otaku
+-  <h3>👋Hi, I’m @arijit-giorno  </h3>
+- 👀 I’m interested in everything  more or less 🍑 
+- 🎉 i'm a student(college)
+- 🈁 feb anime <a href="#">JoJo's Bizarre Adventure</a> 
 - 📫 How to reach me arijitsaha713130@gmail.com
 - 
 
