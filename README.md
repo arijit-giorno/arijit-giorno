@@ -3,7 +3,6 @@
 - 🎉 i'm a student(college)
 - 🈁 feb anime <a href="#">JoJo's Bizarre Adventure</a> 
 - 📫 How to reach me arijitsaha713130@gmail.com
-- 
 
 
 <!---
